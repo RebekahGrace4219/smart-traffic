@@ -1,5 +1,5 @@
 # Smart Traffic
-A server for a 4 way traffic light, complete with traffic signals and weighted plates.
+A server for a 4 way traffic light, complete with traffic signals and weighted plates. You can see a video and the web interface [here](https://smart-traffic-embedded-systems.glitch.me/).
 
 ## The Inspiration
 On the way into campus, there is a 4 way traffic light that sees an incredible amount of traffic in only two directions. Yet, the traffic light for the other direction lasts as long. The line for the left/right side fills up, even as there is no traffic in the intersection. Clearly, the traffic light was set up to give equal time to each side, regardless of whether that side was actually used.
